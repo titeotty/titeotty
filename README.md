@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### Tech Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,bootstrap,tailwind,vscode,spring,mysql,mongodb,docker&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,bootstrap,tailwind,vscode,spring,mysql,mongodb,docker,idea&perline=9)](https://skillicons.dev)
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) <br>
