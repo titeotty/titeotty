@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### Tech Stacks
+#### Tech Stacks & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,bootstrap,tailwind,vscode,spring,mysql,mongodb,docker,idea&perline=9)](https://skillicons.dev)
 
