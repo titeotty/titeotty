@@ -25,7 +25,7 @@
     />
   </a>
 
-#### 🍒 SNS & Blog
+#### 🍒 SNS & Blog & Visits
 <a href="https://instagram.com/c_do.hy">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/c_do.hy/"
@@ -35,6 +35,9 @@
     <img 
         src="http://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&link=https://dohy.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftiteotty&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
 </a>
 
 <!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
