@@ -25,7 +25,7 @@
     />
   </a>
 
-#### 🍒 Contact
+#### 🍒 SNS & Blog
 <a href="https://instagram.com/c_do.hy">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/c_do.hy/"
