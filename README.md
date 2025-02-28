@@ -25,6 +25,18 @@
     />
   </a>
 
+#### 🍒 Contact
+<a href="https://instagram.com/c_do.hy">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/c_do.hy/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://dohy.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&link=https://dohy.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 <!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
