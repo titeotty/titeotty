@@ -19,7 +19,13 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titeotty&layout=compact&langs_count=8" width="320" />
   </a>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/titeotty" width="410" height="120"/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=titeotty&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/titeotty?pet-id=683125777336644768"
+    width="600"
+    height="120"
+  />
 </a>
+  
 </div>
